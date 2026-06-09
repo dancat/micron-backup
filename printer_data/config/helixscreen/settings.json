@@ -194,7 +194,7 @@
                   "rowspan": 1
                 },
                 {
-                  "col": 2,
+                  "col": 5,
                   "colspan": 1,
                   "enabled": true,
                   "id": "shutdown",
@@ -290,7 +290,7 @@
                   "rowspan": 2
                 },
                 {
-                  "col": 5,
+                  "col": 3,
                   "colspan": 1,
                   "enabled": true,
                   "id": "temp_stack",
