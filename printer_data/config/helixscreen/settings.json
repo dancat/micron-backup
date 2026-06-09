@@ -290,12 +290,12 @@
                   "rowspan": 2
                 },
                 {
-                  "col": 3,
+                  "col": 2,
                   "colspan": 1,
                   "enabled": true,
                   "id": "temp_stack",
                   "row": 0,
-                  "rowspan": 1
+                  "rowspan": 2
                 },
                 {
                   "col": -1,
